@@ -1,2 +1,1 @@
-# Wordle
-Wordle Clone made in Java.
+Wordle Clone - Java Swing Application
